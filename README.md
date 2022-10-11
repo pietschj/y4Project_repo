@@ -1,12 +1,19 @@
-# # project_y4 repo
+## project_y4 repo
 
+this is a blank starter repository for the DL836 y4 project.
 
-The starter repository for the DL836 y4 project.
-Upload your documentation and the presentation to the docs folder.Please note:
+Please note:
+
+You have to submit your code using Github classroom.
+You are expected to submit regularly during each sprint.
+You should track issues and errors and describe these changes in your implementaiton chapters.
+Use branches to distinguish between different stages. 
+
+Please note:
 
 * NO files larger than 100 MB can be committed using Github
-* How to use Github with Unity: https://www.youtube.com/watch?v=qpXxcvS-g3g
-* Unity .gitignore: http://bit.ly/2uJ5arj
+* If you wish to use larger files that this investigate the large file storage (LFS) option.
+* Include an appropriate .gitignore file for your source code. 
 
 
 ## Source Code
